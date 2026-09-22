@@ -19,3 +19,5 @@ For the agent to access these views, you will learn how to define its permission
 Next, you will implement the agent’s logic using the OpenAI SDK, evaluate it, and enable tracing with MLflow. Finally, you will deploy the agent.
 
 ![]()<img width="1612" height="802" alt="image" src="https://github.com/user-attachments/assets/46746f5f-da52-45a3-8a3b-678966af4410" />
+
+![]()<img width="1659" height="778" alt="image" src="https://github.com/user-attachments/assets/e5519e3d-db6c-4c64-ada1-dbb34ba04877" />
