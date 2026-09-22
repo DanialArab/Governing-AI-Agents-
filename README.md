@@ -34,3 +34,5 @@ Next, you will implement the agent’s logic using the OpenAI SDK, evaluate it, 
 ![]()<img width="1539" height="639" alt="image" src="https://github.com/user-attachments/assets/dd08d595-1e66-48fb-a9c1-b4a2240f44be" />
 
 ![]()<img width="1567" height="639" alt="image" src="https://github.com/user-attachments/assets/87a9edf2-9c32-4148-a65a-b066ba8f5fd0" />
+
+![]()<img width="1576" height="652" alt="image" src="https://github.com/user-attachments/assets/e64677a0-7499-49a6-afb0-b694c0fa845b" />
