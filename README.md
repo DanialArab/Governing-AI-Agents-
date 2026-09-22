@@ -17,3 +17,5 @@ To ensure the agent follows the principle of least-privilege access, you will gi
 For the agent to access these views, you will learn how to define its permissions. You will then build tools that allow the agent to access the data and register those tools as functions in **Unity Catalog**. Unity Catalog is an open-source data catalog that ensures only authorized agents or users can access those tools.
 
 Next, you will implement the agent’s logic using the OpenAI SDK, evaluate it, and enable tracing with MLflow. Finally, you will deploy the agent.
+
+![]()<img width="1612" height="802" alt="image" src="https://github.com/user-attachments/assets/46746f5f-da52-45a3-8a3b-678966af4410" />
