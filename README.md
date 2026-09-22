@@ -1,5 +1,7 @@
 # Governing-AI-Agents-
 
+## Intro
+
 We can define a set of tools for the agent that allow it to ingest data such as customer demographics, transactions, website engagement, and survey responses.
 
 If you give the agent broad permissions to all this data, you risk it leaking private customer information, such as credit card details, addresses, or personal purchasing behavior—data that should not be visible to all company employees.
